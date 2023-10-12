@@ -6,6 +6,10 @@ en:
   destroy_this_book: destroy this book
   link_new_book: new book
   back_to_books: back to books
+  message:
+    create: Book was successfully created.
+    update: Book was successfully updated.
+    destroy: Book was successfully destroyed.
   activerecord:
     models:
       book:

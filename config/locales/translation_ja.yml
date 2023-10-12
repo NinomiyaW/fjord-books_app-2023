@@ -6,6 +6,10 @@ ja:
   destroy_this_book: 本を削除する
   link_new_book: 新しい本を登録する
   back_to_books: 本の一覧に戻る
+  message:
+    create: 本の情報が登録されました。
+    update: 本の情報が更新されました。
+    destroy: 本の情報が削除されました。
   activerecord:
     models:
       book:
