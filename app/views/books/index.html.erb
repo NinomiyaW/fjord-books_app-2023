@@ -2,7 +2,7 @@
 
 <h1><%= t 'activerecord.models.book', count: 2 %></h1>
 
-<div id="books" class= "index-items">
+<div id="books" class="index-items">
   <% @books.each do |book| %>
     <div class="index-item">
       <%= render book %>
