@@ -1,20 +1,7 @@
 ja:
-  show_this_book:  この本を見る
-  edit_this_book: この本の情報を編集する
-  editing_book: 本の情報を編集
-  new_book: 新しい本
-  destroy_this_book: 本を削除する
-  link_new_book: 新しい本を登録する
-  back_to_books: 本の一覧に戻る
-  message:
-    create: 本の情報が登録されました。
-    update: 本の情報が更新されました。
-    destroy: 本の情報が削除されました。
   activerecord:
     models:
-      book:
-        one: 本
-        other: 本の一覧
+      book: 本
 
     attributes:
       book:
