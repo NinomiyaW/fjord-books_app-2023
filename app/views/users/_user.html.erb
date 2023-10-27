@@ -1,0 +1,12 @@
+<div id="<%= dom_id user %>">
+  <p>
+    <strong><%= User.human_attribute_name(:email) %>:</strong>
+    <%= user.email %><br>
+    <strong><%= User.human_attribute_name(:post_code)%>:</strong>
+    <%= user.post_code%><br>
+    <strong><%= User.human_attribute_name(:address)%>:</strong>
+    <%= user.address%><br>
+    <strong><%= User.human_attribute_name(:biography)%>:</strong>
+    <%= user.biography%><br>
+  </p>
+</div>

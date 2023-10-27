@@ -83,3 +83,9 @@ end
 
 gem 'carrierwave'
 gem 'kaminari'
+
+gem "devise", "~> 4.9"
+
+gem "devise-i18n", "~> 1.12"
+
+gem "minitest-reporters", "~> 1.6"
